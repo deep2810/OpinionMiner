@@ -9,10 +9,7 @@ import java.io.*;
 import mongoDb.mongoConnection;
 import opinionEngine.sentimentAnalyzer.lexiconBaseAnalysis;
 
-/**
- *
- * @author Rasesh shah
- */
+
 public class tweetIndexer {
 
     static Mongo mongo;

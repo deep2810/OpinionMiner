@@ -1,7 +1,5 @@
 <%-- 
     Document   : error
-    Created on : May 22, 2013, 6:58:43 PM
-    Author     : Harshil
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
